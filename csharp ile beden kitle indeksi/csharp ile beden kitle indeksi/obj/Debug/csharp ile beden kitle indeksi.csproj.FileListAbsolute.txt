@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\obj\Debug\csharp ile beden kitle indeksi.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\obj\Debug\csharp ile beden kitle indeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\obj\Debug\csharp ile beden kitle indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\bin\Debug\csharp ile beden kitle indeksi.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\bin\Debug\csharp ile beden kitle indeksi.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\bin\Debug\csharp ile beden kitle indeksi.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\obj\Debug\csharp ile beden kitle indeksi.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile beden kitle indeksi\csharp ile beden kitle indeksi\obj\Debug\csharp ile beden kitle indeksi.pdb
